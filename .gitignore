@@ -1,0 +1,13 @@
+[Bb]in*/
+/[Bb]in*/
+[Dd]ebug*/
+/[Dd]ebug*/
+obj/
+[Rr]elease*/
+*/[Rr]elease*/
+TestResults*/
+*.user
+*.suo
+*.DotSettings
+_ReSharper*/
+
